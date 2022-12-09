@@ -1,1 +1,1 @@
-# Ezpass-Transactional-Email
+# This is a transactional email using HTML & CSS.
